@@ -70,6 +70,7 @@ public class stepDefinition extends Base {
 	    public void close_all_browsers() throws Throwable {
 		// driver.close();
 		 driver.quit();
+		    System.out.println("here check for pull");
 	    }
 
 
