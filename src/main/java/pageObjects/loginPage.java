@@ -46,7 +46,7 @@ public class loginPage {
 	public String alert()
 	{
 		String text = driver.findElement(alert).getText();
-		
+		System.out.println("am just testing git here");
 		return text;
 	}
 }

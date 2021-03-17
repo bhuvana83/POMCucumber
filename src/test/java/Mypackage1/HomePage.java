@@ -56,6 +56,7 @@ public class HomePage extends Base {
 		forgotPassword fp = lop.forgotPwd();  // used optimized method of return objects and page navigation 
 		fp.getEmail().sendKeys("test");
 		fp.sendINS().click();
+		System.out.println("am just testing git here");
 		
 				
 	}
