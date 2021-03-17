@@ -1,0 +1,7 @@
+19:17:14.384 [main] INFO  Mypackage1.validateNavigation - initalization done for navigation bar
+19:17:32.336 [main] INFO  Mypackage1.validateTitle - initalization done for tilte
+19:18:06.973 [main] INFO  Mypackage1.HomePage - this is for user login
+19:18:16.301 [main] INFO  Mypackage1.HomePage - nonrestrictedUser
+19:18:19.242 [main] INFO  Mypackage1.HomePage - closing all user login drivers
+19:18:42.193 [main] INFO  Mypackage1.HomePage - this is for user login
+19:18:48.911 [main] INFO  Mypackage1.HomePage - restrictedUser

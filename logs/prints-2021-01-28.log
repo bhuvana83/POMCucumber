@@ -1,0 +1,6 @@
+17:18:13.207 [TestNG] INFO  Mypackage1.validateTitle - initalization done for tilte
+17:18:13.162 [TestNG] INFO  Mypackage1.HomePage - this is for user login
+17:18:13.984 [TestNG] INFO  Mypackage1.validateNavigation - navigationbar validation is success
+17:18:13.993 [TestNG] INFO  Mypackage1.validateTitle - banner validation is success
+17:18:14.081 [TestNG] INFO  Mypackage1.validateNavigation - closing all drivers for navbar
+17:18:14.791 [TestNG] INFO  Mypackage1.validateTitle - closing all drivers for title

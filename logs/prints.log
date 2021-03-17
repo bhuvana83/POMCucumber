@@ -1,0 +1,5 @@
+17:18:16.203 [TestNG] INFO  Mypackage1.HomePage - nonrestrictedUser
+17:18:16.806 [TestNG] INFO  Mypackage1.HomePage - closing all user login drivers
+17:18:29.343 [TestNG] INFO  Mypackage1.HomePage - this is for user login
+17:18:31.474 [TestNG] INFO  Mypackage1.HomePage - restrictedUser
+17:18:31.989 [TestNG] INFO  Mypackage1.HomePage - closing all user login drivers

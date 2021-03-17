@@ -1,0 +1,6 @@
+13:31:48.709 [TestNG] INFO  Mypackage1.validateTitle - course validation is success
+13:31:55.304 [TestNG] INFO  Mypackage1.validateNavigation - initalization done for navigation bar
+13:31:58.699 [TestNG] INFO  Mypackage1.validateTitle - closing all drivers for title
+13:31:59.162 [TestNG] INFO  Mypackage1.validateNavigation - navigationbar validation is success
+13:31:59.639 [TestNG] INFO  Mypackage1.HomePage - this is for user login
+13:32:06.123 [TestNG] INFO  Mypackage1.HomePage - nonrestrictedUser

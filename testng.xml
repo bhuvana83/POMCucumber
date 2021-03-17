@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel ="tests" >
+<listeners>
+<listener class-name="Mypackage1.Listeners"/>
+</listeners>
+  <test thread-count="5" name="HomeTest">
+    <classes>
+      <class name="Mypackage1.HomePage"/>
+       </classes>
+      </test>
+      <test thread-count="5" name="TitleTest">
+    <classes>
+      <class name="Mypackage1.AppTest"/>
+      <class name="Mypackage1.validateTitle"/>
+      </classes>
+      </test>
+      <test thread-count="5" name="NavTest">
+    <classes>
+      <class name="Mypackage1.validateNavigation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
