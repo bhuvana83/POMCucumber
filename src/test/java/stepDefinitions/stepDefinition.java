@@ -71,6 +71,7 @@ public class stepDefinition extends Base {
 		// driver.close();
 		 driver.quit();
 		    System.out.println("here check for pull");
+		    System.out.println("checking for branching and merging");
 	    }
 
 
